@@ -1,8 +1,14 @@
 <!-- stats and languages Chart -->
 <div align=center style="display: flex; width: 100%">
-	<img width="45%" src="https://raw.githubusercontent.com/danihek/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-	<img width="45%" src="https://raw.githubusercontent.com/danihek/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0x15ba88ff&hide_rank=true&show_icons=true&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x15ba88ff&layout=compact&langs_count=8&card_width=320&&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff" />
+    </a>
 </div>
+
+
 
 <!-- Languages badges -->
 <h3 align=center>Languages I use</h3>
