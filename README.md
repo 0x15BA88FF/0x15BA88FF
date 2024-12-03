@@ -1,7 +1,7 @@
 <!-- stats and languages Chart -->
-<div align=center style="display: flex; width: 90%">
-	<img src="https://raw.githubusercontent.com/danihek/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-	<img src="https://raw.githubusercontent.com/danihek/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<div align=center style="display: flex; width: 100%">
+	<img width="45%" src="https://raw.githubusercontent.com/danihek/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+	<img width="45%" src="https://raw.githubusercontent.com/danihek/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
 <!-- Languages badges -->
