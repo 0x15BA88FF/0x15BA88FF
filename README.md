@@ -13,7 +13,7 @@ My interests include web development, blazingly fast algorithms, data structures
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=0x15ba88ff&hide_rank=true&show_icons=true&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=0x15ba88ff&hide_rank=false&show_icons=true&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff"/></a>
 <a href="https://github.com/anuraghazra/convoychat"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x15ba88ff&layout=compact&langs_count=8&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff"/></a>
 
 <br/>
