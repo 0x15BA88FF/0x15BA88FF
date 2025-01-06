@@ -3,13 +3,14 @@
 I am a software developer from the Milky Way, currently working from my basement, with a knack for building cool stuff.
 
 My interests include web development, blazingly fast algorithms, data structures, Linux (I use Arch, btw), open-source, and other normal human activities like eating food.
+> Recently started to like writing test (let's not push it).
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Typescript, Rust, Lua, shell
-- **Frameworks & Libraries:** React, Vue, Svelte, Astro, Node.js, Django, Flask
+- **Languages:** Python, JavaScript, Typescript, Rust, Go, C, C++, Lua, shell
+- **Frameworks & Libraries:** React, Vue, Svelte, Astro, Node.js, Express, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions
+- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions / CI, Vercel
 
 ## [📝 Blog Posts](https://0x15ba88ff.github.io/logs/)
 
