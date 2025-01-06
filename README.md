@@ -12,7 +12,7 @@ My interests include web development, blazingly fast algorithms, data structures
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Docker, Kubernetes, GitHub Actions / CI, Vercel
 
-## [📝 Blog Posts](https://0x15ba88ff.github.io/logs/)
+## [📝 Recent Blog Posts](https://0x15ba88ff.github.io/logs/)
 
 - Nothing yet.
 
