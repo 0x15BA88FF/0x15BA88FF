@@ -6,10 +6,10 @@ My interests include web development, blazingly fast algorithms, data structures
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Rust
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
+- **Languages:** Python, JavaScript, Typescript, Rust, Lua, shell
+- **Frameworks & Libraries:** React, Vue, Svelte, Astro, Node.js, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions, AWS, Azure
+- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions
 
 <br/>
 
