@@ -7,7 +7,7 @@ My interests include web development, blazingly fast algorithms, data structures
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Typescript, Rust, Go, C, C++, Lua, shell
+- **Languages:** Python, JavaScript, Typescript, Rust, Go, C, C++, Lua, bash
 - **Frameworks & Libraries:** React, Vue, Svelte, Astro, Node.js, Express, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Docker, Kubernetes, GitHub Actions / CI, Vercel
