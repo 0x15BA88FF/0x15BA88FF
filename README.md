@@ -25,10 +25,8 @@ My interests include web development, blazingly fast algorithms, data structures
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pascall-de-creator/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white"></a>
-<a href="https://x.com/0x15BA88FF"><img src="https://img.shields.io/badge/Twitter-1DA1F2"></a>
-
-
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+https://www.linkedin.com/in/pascall-de-creator/
