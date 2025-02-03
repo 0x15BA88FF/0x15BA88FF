@@ -12,15 +12,15 @@ My interests include web development, blazingly fast algorithms, data structures
 - **Databases:** SQLite, MySQL, PostgreSQL, MongoDB.
 - **Tools & Platforms:** Firebase, Docker, Kubernetes, GitHub Actions / CI, Vercel.
 
-## [📝 Recent Blog Posts](https://0x15ba88ff.github.io/logs/)
+## [📝 Recent Blog Posts](https://0x15ba88ff.github.io/logs)
 
 - Nothing yet.
 
 <br/>
 
 <div>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x15ba88ff&layout=compact&langs_count=8&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff"/>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=0x15ba88ff&hide_rank=false&show_icons=true&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x15ba88ff&layout=compact&langs_count=8&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=0x15ba88ff&hide_rank=false&show_icons=true&theme=transparent&border_color=15ba88ff&title_color=15ba88ff&icon_color=15ba88ff" />
 </div>
 
 <br/>
